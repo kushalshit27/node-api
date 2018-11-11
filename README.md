@@ -1,2 +1,2 @@
-# node_api
+# node-api
 node api with express js
